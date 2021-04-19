@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Alice Busra Alcinar
-- 👀 I’m interested in Web and Mobile Development
-- 🌱 I’m currently learning Javascript/
-- 💞️ I’m looking to collaborate on any company to improve myself.
 - 📫 How to reach me busralcinar@gmail.com
 
 <!---
