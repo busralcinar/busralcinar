@@ -18,5 +18,7 @@
 <a href="busralcinar@gmail.com" target="blank">
 <img align="center" src="https://img.icons8.com/doodle/48/000000/google-plus-circled.png" alt="Alice Busra Alcinar Gmail" /></a></p>
 <hr/> 
-<div> <img src="https://tryhackme-badges.s3.amazonaws.com/busralcinar.png" alt="TryHackMe">
-<img  src="https://tryhackme-badges.s3.amazonaws.com/busralcinar.png?0" alt="TryHackMe"> </div>
+<p align="center">
+<img src="https://img.icons8.com/dusk/100/000000/hacker.png"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/busralcinar.png" alt="TryHackMe">
+</p>
