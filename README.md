@@ -13,8 +13,7 @@
 <img align="center" src="https://img.icons8.com/doodle/48/000000/instagram-new.png" alt="Alice Busra Alcinar Instagram"/></a>
 <a href="https://twitter.com/busralcinar" target="blank">
 <img align="center" src="https://img.icons8.com/doodle/48/000000/twitter--v1.png" alt="Alice Busra Alcinar Twitter"/></a>
-<a href="busralcinar@gmail.com" target="blank">
-<img align="center" src="https://img.icons8.com/doodle/48/000000/google-plus-circled.png" alt="Alice Busra Alcinar Gmail" /></a></p>
+</p>
 <hr/> 
 
 ![Stalked by](https://komarev.com/ghpvc/?username=DarkStark9000&color=6c5eff)
