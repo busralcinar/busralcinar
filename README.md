@@ -19,6 +19,5 @@
 ![Stalked by](https://komarev.com/ghpvc/?username=DarkStark9000&color=6c5eff)
 
 <p align="center">
-<img src="https://img.icons8.com/dusk/100/000000/hacker.png"/>
 <img src="https://tryhackme-badges.s3.amazonaws.com/busralcinar.png" alt="TryHackMe">
 </p>
