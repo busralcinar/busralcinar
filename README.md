@@ -10,9 +10,9 @@
 <h3 align="center">Connect with me 😊</h3>
 <p align="center">
 <a href="https://www.instagram.com/jpkokeshi/" target="blank">
-<img align="center" src="https://img.icons8.com/doodle/48/000000/instagram-new.png" alt="Alice Busra Alcinar Instagram"/></a>
+<img align="center" src="https://img.icons8.com/doodle/48/000000/instagram-new.png" width="28px" alt="Alice Busra Alcinar Instagram"/></a>
 <a href="https://twitter.com/busralcinar" target="blank">
-<img align="center" src="https://img.icons8.com/doodle/48/000000/twitter--v1.png" alt="Alice Busra Alcinar Twitter"/></a>
+<img align="center" src="https://img.icons8.com/doodle/48/000000/twitter--v1.png" width="40px" alt="Alice Busra Alcinar Twitter"/></a>
 </p>
 <hr/> 
 
