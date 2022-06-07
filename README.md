@@ -4,7 +4,7 @@
 <img align="center" src="https://img.icons8.com/nolan/64/r2-d2.png"/></a>
 <a href="https://busralcinar.github.io/" target="blank">
 <img align="center" src="https://img.icons8.com/nolan/64/mando.png"/></a>
-<h1 align="center"> Hi, I’m Alice </h1> 
+<h2 align="center"><i><img alt="hen with a car" src="./assets/hand.gif" width='40' align="center"/> Hi, I’m Alice </i></h2> 
 <i><h3 align="center"> I enjoy building stuff 🦄 and I love colorful 🎨 things. <br> </h3> </i> 
 <hr/> 
 <h3 align="center">Connect with me 😊</h3>
