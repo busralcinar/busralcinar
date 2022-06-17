@@ -8,7 +8,7 @@
 <i><h3 align="center"> I enjoy building stuff 🦄 and I love colorful 🎨 things. <br> </h3> </i> 
 <hr/> 
 
-[![Twitter](https://img.shields.io/twitter/follow/busralcinar?label=Follow)](https://twitter.com/busralcinar)
+[![Twitter](https://badgen.net/twitter/follow/busralcinar)](https://twitter.com/busralcinar)
 [![Github](https://img.shields.io/github/followers/busralcinar?label=Follow&style=social)](https://github.com/busralcinar)
 [![My Website](https://img.shields.io/badge/My-Website-green?style=flat&logo=google-chrome)](https://busralcinar.github.io/)
 
