@@ -25,12 +25,3 @@
 <p align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/busralcinar.png" alt="TryHackMe">
 </p>
-
-## 📈 Statistics
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=busralcinar&count_private=true&show_icons=true&theme=ayu-mirage" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=busralcinar&theme=ayu-mirage" alt="my commit status" width="49%" /> </p>
-
-
----
