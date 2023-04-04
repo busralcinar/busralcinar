@@ -4,9 +4,9 @@
 <img align="center" src="https://user-images.githubusercontent.com/61082741/182169612-c117eb61-a8cc-40c8-9643-e1b98257b835.png"/></a>
 <a href="https://busralcinar.github.io/" target="blank">
 <img align="center" src="https://user-images.githubusercontent.com/61082741/182169924-4f6df2b5-e0ce-47a1-a01e-2618766d52dc.png"/></a>
-<h2 align="center"><i><img alt="hen with a car" src="./assets/hand.gif" width='40' align="center"/> Hi, I’m Alice </i></h2> 
-<i><h3 align="center"> I enjoy building stuff 🦄 and I love colorful 🎨 things. <br> </h3> </i> 
-<hr/> 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=F7ED1A&width=435&lines=HEY+THERE%2C+I'M+ALICE!;+I+ENJOY+BUILDING+RARE+STUFF%F0%9F%A6%84+;I+LOVE+BABY+YODA+%F0%9F%92%9A+%26+LOST+ARK+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
 
 [![Github](https://img.shields.io/github/followers/busralcinar?label=Follow&style=social)](https://github.com/busralcinar)
 [![My Website](https://img.shields.io/badge/My-Website-green?style=flat&logo=google-chrome)](https://busralcinar.github.io/)
