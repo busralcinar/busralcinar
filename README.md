@@ -27,6 +27,12 @@
 </p>
 <hr/> 
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/busralcinar/busralcinar/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/busralcinar/busralcinar/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+
+
 ![Stalked by](https://komarev.com/ghpvc/?username=DarkStark9000&color=6c5eff)
 [![Github](https://img.shields.io/github/followers/busralcinar?label=Follow&style=social)](https://github.com/busralcinar)
 [![My Website](https://img.shields.io/badge/My-Website-green?style=flat&logo=google-chrome)](https://busralcinar.github.io/)
