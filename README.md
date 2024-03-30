@@ -28,7 +28,6 @@
 <hr/> 
 
 ![github contribution grid snake animation](https://github.com/busralcinar/busralcinar/blob/main/.github/workflows/github-contribution-grid-snake-dark.svg)
-![github contribution grid snake animation](https://github.com/busralcinar/busralcinar/blob/main/.github/workflows/github-contribution-grid-snake.svg)
 
 
 
