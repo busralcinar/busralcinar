@@ -42,4 +42,5 @@
 </p>
 
 
-[![@busralcinar's Holopin board](https://holopin.io/api/user/board?user=busralcinar)](https://holopin.io/@busralcinar)
+[![@busralcinar's Holopin board](https://holopin.me/busralcinar)](https://holopin.io/@busralcinar)
+
